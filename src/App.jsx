@@ -4,7 +4,7 @@ import Card from './assets/components/Card'
 function App() {
   const pricingData = [
     {
-      title: "Free",
+      title: "FREE",
       price: "$0",
       features:"Single User",
        users:"5GB Storage",
@@ -16,10 +16,10 @@ function App() {
         status:"Monthly Status Reports"
     },
   {
-    title: "Plus",
+    title: "PLUS",
     price: "$9",
-    features:"Single User",
-     users:"5GB Storage",
+    features:"5 Users",
+     users:"50GB Storage",
      dataBack:"Unlimited Public Projects",
      comunityAccess :"Community Access",
       projects:"Unlimited Private Projects",
@@ -28,10 +28,10 @@ function App() {
       status:"Monthly Status Reports"
   },
 {
-  title: "Pro",
+  title: "PRO",
   price: "$49",
-  features:"Single User",
-   users:"5GB Storage",
+  features:"Unlimited Users",
+   users:"150GB Storage",
    dataBack:"Unlimited Public Projects",
    comunityAccess :"Community Access",
     projects:"Unlimited Private Projects",
