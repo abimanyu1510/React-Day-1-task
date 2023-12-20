@@ -36,7 +36,7 @@ function App() {
    comunityAccess :"Community Access",
     projects:"Unlimited Private Projects",
     support:"Dedicated Phone Support",
-    subDomain:"Free Subdomain",
+    subDomain:"Unlimited Free Subdomains",
     status:"Monthly Status Reports"
 }]
   return <>
